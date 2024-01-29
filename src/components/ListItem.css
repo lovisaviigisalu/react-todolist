@@ -1,0 +1,25 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #eec4e5;
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 20px;
+}
+
+
+.deadline {
+    font-weight: bold;
+    font-size: large;
+}
+deadline_and_button{
+
+    justify-content: space-around;
+}
+.button{
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    border-radius: 6px;
+}
+

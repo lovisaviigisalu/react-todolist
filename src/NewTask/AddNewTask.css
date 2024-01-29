@@ -1,0 +1,31 @@
+.AddNew {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #eec4e5;
+    padding: 1rem;
+    margin: 3rem;
+    border-radius: 20px;
+    text-align: left;
+    font-weight: bolder;
+
+}
+
+.AddNew input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #232323;
+    margin: 8px;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.AddNew button {
+
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    border-radius: 6px;
+
+
+}
